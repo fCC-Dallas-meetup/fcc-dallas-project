@@ -13,7 +13,7 @@ class App extends Component {
         <p className="App-intro">
           Welcome to the <a href="https://www.freecodecamp.org/">freeCodeCamp</a> Dallas project page.
         </p>
-        <img src="../public/img/IMG_0199.JPG"></img>
+        <img src="img/IMG_0199.JPG" alt="group pic"></img>
       </div>
     );
   }
